@@ -1,0 +1,60 @@
+[33mcommit 9f9f7bc3e6149265f70e335065fd05cb65e0d57a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b290af4 d40538c
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 16:46:11 2019 +0300
+
+    new color change
+
+[33mcommit d40538caebf3fc6422e5d46401ebdbc5158bbc51[m[33m ([m[1;32mfixes[m[33m, [m[1;32maddContent[m[33m)[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 16:42:49 2019 +0300
+
+    add hieth
+
+[33mcommit e3cc2745be1e6c46aa47f701fabb8ba5537e344a[m[33m ([m[1;33mtag: Release_1.0.1[m[33m)[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 16:33:18 2019 +0300
+
+    add new text color blue
+
+[33mcommit ffe344579bdf74f69f1e61e27934f7c4f442dc02[m[33m ([m[1;33mtag: Release_1.0.0[m[33m)[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 16:17:52 2019 +0300
+
+    add font size
+
+[33mcommit b290af4abdb7d2c24e532a200e03c40a5e29ab35[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 15:42:37 2019 +0300
+
+    change font color to green
+
+[33mcommit bb5d9e150379461a85cd3c149699b0c8c4f9de4b[m[33m ([m[1;32mnewCss[m[33m)[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 15:24:34 2019 +0300
+
+    change body bg color
+
+[33mcommit 1d88ddb7ec4ca2a2b8a0cdfdb937c9f11adcb87c[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 15:10:43 2019 +0300
+
+    new file about.html added to project
+
+[33mcommit dc0f7492e448dd3dc089ae53fb2127ed49f047e8[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 14:48:09 2019 +0300
+
+    add new tag
+
+[33mcommit b3a149509a6a4d622e1c5eb5537ae52d6b7c2d9f[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 13:45:06 2019 +0300
+
+    added some
+
+[33mcommit 023d1312825e9c235412d519127a3e0a88b61fb8[m
+Author: Omar <omar.teachcampus@gmail.com>
+Date:   Sun Dec 22 13:34:51 2019 +0300
+
+     try git
